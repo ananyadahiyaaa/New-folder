@@ -9,7 +9,7 @@
 - One repo, one branch (main or master — do NOT push to any other branch)
 - Each question gets its own folder: `q1/`, `q2/`, `q3/`
 - Add `.gitignore` before your first commit (template at the bottom of this file)
-- 3 hours total. Pace yourself — read all questions first, then start
+- 3 hours total. Pace yourself — read all questions first, then starts
 
 ---
 
